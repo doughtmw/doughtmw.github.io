@@ -80,8 +80,8 @@ author:
   avatar           : "avatar.jpg"
   bio              : "Mitchell Doughty is a PhD student in Medical Biophysics at the University of Toronto. 
 His research interests focus on improving image-guidance in cardiac procedures through augmented reality."
-  location         : "Toronto, ON, Canada"
-  employer         : "University of Toronto, Sunnybrook Research Institute"
+  location         : "Toronto, Canada"
+  employer         : "University of Toronto"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mitchell+doughty"
   googlescholar    : "https://scholar.google.ca/citations?user=rxbF-RMAAAAJ&hl=en"
   email            : "mitchell.doughty@mail.utoronto.ca"
@@ -93,7 +93,7 @@ His research interests focus on improving image-guidance in cardiac procedures t
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/doughtmw"
+  github           : "doughtmw"
   google_plus      :
   keybase          :
   instagram        :
@@ -173,12 +173,12 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -194,7 +194,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -212,7 +212,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -224,10 +224,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
