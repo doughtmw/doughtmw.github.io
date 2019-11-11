@@ -79,13 +79,13 @@ author:
   name             : "Mitchell Doughty"
   avatar           : "avatar.jpg"
   bio              : "Mitchell Doughty is a PhD student in Medical Biophysics at the University of Toronto. 
-His research interests focus on improving image-guidance in cardiac procedures through augmented reality."
+His research interests focus on improving image-guidance in cardiac procedures using augmented reality."
   location         : "Toronto, Canada"
   employer         : "University of Toronto"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mitchell+doughty"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=mitchell+doughty"
   googlescholar    : "https://scholar.google.ca/citations?user=rxbF-RMAAAAJ&hl=en"
   email            : "mitchell.doughty@mail.utoronto.ca"
-  researchgate     : "https://www.researchgate.net/profile/Mitchell_Doughty?ev=hdr_xprf&_sg=GLcmvMVyOWOvWToGJlkMD0SflBnKnlJ6f2giFeF9SgLdLVkRyfGbxN5e0aXVczlahBCtkWHkIfPIUfMIUvNBFL-4"
+  researchgate     : #"https://www.researchgate.net/profile/Mitchell_Doughty?ev=hdr_xprf&_sg=GLcmvMVyOWOvWToGJlkMD0SflBnKnlJ6f2giFeF9SgLdLVkRyfGbxN5e0aXVczlahBCtkWHkIfPIUfMIUvNBFL-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -110,7 +110,7 @@ His research interests focus on improving image-guidance in cardiac procedures t
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "channel/UCU4gs7gl1_FUFXOQRenKWvg?view_as=subscriber"
   wikipedia        :
 
 
