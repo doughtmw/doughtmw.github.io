@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "In development..."
+title: "Mitchell Doughty"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,3 +8,6 @@ redirect_from:
   - /about.html
 ---
 ...
+
+PhD Student, Department of Medical Biophysics at the University of Toronto.
+![me](/images/mitch-holo.jpg)
