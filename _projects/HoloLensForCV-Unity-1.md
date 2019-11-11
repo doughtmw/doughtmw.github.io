@@ -1,6 +1,6 @@
 ---
 title: "HoloLens for Computer Vision in Unity"
-excerpt: "Sample project incorporating the HoloLens for CV sample from Microsoft into a C# project in Unity using IL2CPP Windows Runtime Support. <br/><img src='/imagesHoloLens-PvDepth-Example.jpg'>"
+excerpt: "Sample project incorporating the HoloLens for CV sample from Microsoft into a C# project in Unity using IL2CPP Windows Runtime Support. <br/><img src='/images/HoloLens-PvDepth-Example.jpg'>"
 collection: portfolio
 ---
 
