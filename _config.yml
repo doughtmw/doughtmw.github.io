@@ -175,7 +175,7 @@ collections:
   # teaching:
   #   output: false
   #   permalink: /:collection/:path/
-  posts:
+  publications:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -191,7 +191,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
