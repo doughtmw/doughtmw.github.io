@@ -1,7 +1,7 @@
 ---
 title: "MRI Driven Augmented Reality Image-Guidance Platform for Myocardial Cell Delivery"
 collection: publications
-permalink: /publications/2019-06-13-ismrm-paper
+permalink: /publications/2019-06-13-ismrm-paper-3
 excerpt: 'This paper aims to evaluate the accuracy of optical see-through head-mounted displays for displaying preoperative image data and guiding surgery.'
 date: 2019-06-13
 venue: 'International Society for Magnetic Resonance in Medicine'

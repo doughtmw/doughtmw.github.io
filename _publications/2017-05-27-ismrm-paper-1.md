@@ -1,7 +1,7 @@
 ---
 title: "Assessing Functional and Structural Connectivity in ex-Professional Athletes"
 collection: publications
-permalink: /publications/2017-05-27-ismrm-paper
+permalink: /publications/2017-05-27-ismrm-paper-1
 excerpt: 'Through a detailed magnetic resonance imaging protocol, this work investigates the consequences of sports-related concussions on long-term brain health.'
 date: 2017-05-27
 venue: 'International Society for Magnetic Resonance in Medicine'
